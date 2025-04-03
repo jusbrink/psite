@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<!-- SITE TITLE -->
+	<title>B</title>
+	<link rel="icon" href="../static/images/keeper.jpeg">
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<!-- STYLESHEET CSS FILES -->
+	<link rel="stylesheet" href="../static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../static/css/animate.min.css">
+	<link rel="stylesheet" href="../static/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../static/css/nivo-lightbox.css">
+	<link rel="stylesheet" href="../static/css/nivo_themes/default/default.css">
+	<link rel="stylesheet" href="../static/css/style.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Helvetica&display=swap" rel="stylesheet">
+</head>
+<body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+
+<!-- newsletter section -->
+<section id="newsletter">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3"></div>
+			<div class="col-md-6 text-left">
+				<h2> </h2>
+				<img src="../static/images/towers.jpg" width="200" class="left"></img>
+				<h5>Sugarcube.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/Sugarcube (1).m4a" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>In the City.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/in the city.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Post drunk monday morning.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/post drunk monday morning.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Bluebird.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/bluebird.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>one of them.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/One of Them (capo 2 dmaj7-G) (1).m4a" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>She's at home waiting.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/she's at home waiting VERB.wav" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Hello, bright morning.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/Hello, Bright Morning (1).m4a" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>On Electric Towers.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/on electric towers.wav" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Lock Me Down With You.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/Lock Me Down With You.wav" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>dark architecture.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/dark architecture demo.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>stripe girl.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/stripe girl demo.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Horse.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/not the kind of horse.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Silver bell.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/theres a silver bell v2.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>Winter bells.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/Winter Bells.m4a" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>if you believe in anything.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/if you believe in anything 2.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<h5>I really miss june.mp3</h5>
+				<audio controls>
+					<source src="../static/audio/i really miss june.mp3" type="audio/mpeg">
+					Your browser does not support the audio tag.
+				</audio>
+				<p><br></p>
+			</div>
+		</div>
+	</div>
+</section>	
+
+
+
+<!-- JAVASCRIPT JS FILES -->	
+<script src="../static/js/jquery.js"></script>
+<script src="../static/js/bootstrap.min.js"></script>
+<script src="../static/js/smoothscroll.js"></script>
+<script src="../static/js/isotope.js"></script>
+<script src="../static/js/imagesloaded.min.js"></script>
+<script src="../static/js/nivo-lightbox.min.js"></script>
+<script src="../static/js/wow.min.js"></script>
+<script src="../static/js/custom.js"></script>
+
+</body>
+</html>
