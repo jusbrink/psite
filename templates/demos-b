@@ -57,24 +57,9 @@
 					<source src="../static/audio/One of Them (capo 2 dmaj7-G) (1).m4a" type="audio/mpeg">
 					Your browser does not support the audio tag.
 				</audio>
-				<h5>She's at home waiting.mp3</h5>
-				<audio controls>
-					<source src="../static/audio/she's at home waiting VERB.wav" type="audio/mpeg">
-					Your browser does not support the audio tag.
-				</audio>
 				<h5>Hello, bright morning.mp3</h5>
 				<audio controls>
 					<source src="../static/audio/Hello, Bright Morning (1).m4a" type="audio/mpeg">
-					Your browser does not support the audio tag.
-				</audio>
-				<h5>On Electric Towers.mp3</h5>
-				<audio controls>
-					<source src="../static/audio/on electric towers.wav" type="audio/mpeg">
-					Your browser does not support the audio tag.
-				</audio>
-				<h5>Lock Me Down With You.mp3</h5>
-				<audio controls>
-					<source src="../static/audio/Lock Me Down With You.wav" type="audio/mpeg">
 					Your browser does not support the audio tag.
 				</audio>
 				<h5>dark architecture.mp3</h5>
